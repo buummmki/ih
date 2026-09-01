@@ -1,0 +1,6 @@
+{
+  "name": "오늘의 LH청약 일정",
+  "description": "LH청약플러스의 청약신청 현황을 실시간으로 확인하고, 접수중인 임대·분양주택, 토지, 상가 청약정보 및 일정을 한눈에 확인하는 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
